@@ -5,11 +5,12 @@ authors:
   - Chris Watson <cawatson1993@gmail.com>
   - Rémy Marronnier <rmarronnier@gmail.com>
 
-crystal: 0.35.1
+crystal: 1.0.0
 
 dependencies:
   cadmium_tokenizer:
-    github: cadmiumcr/tokenizer
+    github: kates/tokenizer
+    branch: crystal-v1
   apatite:
     github: watzon/apatite
     branch: master
